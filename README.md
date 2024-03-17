@@ -3,6 +3,8 @@
 Welcome to my portfolio website! This website showcases my projects, skills, and provides visitors with information about me. It's built using HTML, CSS, and JavaScript, and is hosted on Netlify.
 The website is designed to be responsive on all devices and includes features like navigation transitions, dark and light themes, a resume PDF download option, and a functional contact form.
 
+ **Note**: Clone or download the repository to your device and after downloading the repository as a zip file, make sure to unzip the folder before running the website, else the CSS and the JavaScript files will not be able to compile with the HTML file.
+ 
 ## Features
 
 1. **Responsive Design**: The website is optimized to look great and function well on all devices, thanks to the use of media queries for responsiveness.
